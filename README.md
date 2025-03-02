@@ -1,6 +1,6 @@
 # Project: Telegram Bot for Sending a Message to a Channel
 
-This project is a simple implementation of a Telegram bot that sends a message to a specific channel with an attached "Subscribe" button.
+This project is a simple implementation of a Telegram bot that sends a message to a specific channel with an attached "Subscribe" button
 
 ## Installation and Setup
 
